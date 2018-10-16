@@ -299,7 +299,7 @@ budgetDetail: {
 
 The url to your repository and to your deployed project
 
-[Client repository Link](http://github.com)
+[Client repository Link](https://github.com/xapi1972/front-end-wellnessrenovate)
 [Server repository Link](https://github.com/xapi1972/wellnessRenovate.git)
 
 [Deploy Link](http://heroku.com)
