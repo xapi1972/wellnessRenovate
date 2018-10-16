@@ -5,9 +5,10 @@ const cookieParser = require('cookie-parser');
 const logger = require('morgan');
 const mongoose = require('mongoose');
 const session = require('express-session');
+const mongoose = require('./database');
+
 
 const auth = require('./routes/auth')
-
 const indexRouter = require('./routes/index');
 const usersRouter = require('./routes/users');
 
